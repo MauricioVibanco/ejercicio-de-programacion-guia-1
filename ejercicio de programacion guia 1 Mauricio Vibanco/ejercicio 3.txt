@@ -1,0 +1,18 @@
+
+EJERCICIO 3
+
+Algoritmo mayor
+Variables
+Entero mayor, contador, numero
+
+Inicio
+	contador <- 0	
+	mayor <-    -9999999999999999 //Numero muy chiquito 
+	Mientras contador <= 100 hacer
+		contador <- contador + 1		
+		Leer(numero)
+		Si (numero > mayor) entonces
+			mayor <- numero		
+	FinMientras
+	Escribe(mayor)
+Fin

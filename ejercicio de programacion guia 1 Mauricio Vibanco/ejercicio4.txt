@@ -1,0 +1,20 @@
+
+EJERCICIO 4
+	ALGORITMO DE TRES NUMEROS
+VARIABLES
+Enteros  primero, segundo, tercero, suma
+
+inicio
+ 	primero <- 2
+	segundo <- 3
+	tercero <- 5
+
+leer <- primero , segundo, tercero
+
+suma (primero + segundo)
+
+si (suma = tercero) entonces
+	tercero = suma
+
+fin mientras
+escribe (tercero)

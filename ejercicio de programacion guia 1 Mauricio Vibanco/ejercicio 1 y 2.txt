@@ -1,0 +1,102 @@
+Sumar dos números enteros.
+• Restar dos números enteros.
+• Multiplicar dos números enteros.
+• Dividir dos números enteros.
+
+
+ejercicio 1
+ 
+a) algoritmo suma de naturales
+variables 
+enteros.  numero 1, numero 2 , resultado
+ 
+inicio
+ numero 1 <  - 1
+ numero 2 <  - 2
+   
+	leer <- numero 1 , numero 2
+     	resultado < - numero 1 + numero 2
+		
+		escribe (resultado)
+fin
+
+
+b)  algoritmo resta
+ variables 
+ enteros.numero 1, numero 2, resultado
+
+inicio
+	leer <- numero 1 , numero 2
+        numero 1 <  - 4
+          numero 2 <  - 2
+   
+     	mientras  resta < - numero 1 - numero 2
+		
+		resultado< - numero 1 - numero
+	escribe (resultado)
+fin
+
+
+
+
+c)algoritmo multiplicar 
+variables 
+enteros.  numero 1, numero 2, resultado
+
+inicio
+ numero 1 <  - 2
+ numero 2 <  - 2
+   
+	leer <- numero 1 , numero 2     	
+		
+		resultado< - numero 1 * numero2
+
+	escribe (resultado)
+fin
+
+
+d)algoritmo division
+variables 
+enteros.numero 1, numero 2, resultado
+
+	inicio
+	 numero 1 <  - 6
+ 	numero 2 <  - 3
+   	
+	leer <- numero 1 , numero 2
+		
+		resultado< - numero 1 % numero2
+	escribe (resultado)
+fin
+
+
+
+2. Escriba el pseudocódigo de un algoritmo que lea la base y la altura de un triángulo y calcule
+su área.
+
+
+ejercicio 2
+
+
+	algoritmo suma de triangulo
+
+variable
+entera base, altura, area
+
+   	inicio
+		base <- 4
+		altura < - 5
+
+	leer <- base, altura
+	
+		area <- base + altura
+		escribe (area)
+	fin
+
+	
+
+	
+
+
+
+

@@ -1,0 +1,22 @@
+
+Ejercicio6
+
+	Algoritmo detarea
+
+varibales
+enteros X,suma
+              
+inicio
+
+               x = 3
+               suma = 0
+
+               Mientras x <= 99 Hacer
+	leer (x)
+                              suma <- suma + x
+
+                         x = x + 3
+
+               FinMientras
+
+               escribe (suma)
